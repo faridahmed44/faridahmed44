@@ -1,8 +1,5 @@
 put the github status next to each other # 💫 About Me:
-<p align="center">
-  <img src="https://waveify.onrender.com/api/typing?text=Farida Ahmed&color=%23007CF0&fontSize=48" />
-</p>
-<img src="https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default" width="100%" />
+<img src="./farida-ahmed-banner.svg" alt="Farida Ahmed" width="100%" />
 A Computer Engineering And Ai student @Ain shams university <br>has a passion for building apps and learning more about new languages
 
 
