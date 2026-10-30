@@ -30,4 +30,8 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=faridahmed44&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🛠️ Top Projects:
+[![Recipe Browser](https://github-readme-stats.shion.dev/api/pin/?username=Abdallah1707&repo=Recipe_Browser&theme=aura)](https://github.com/Abdallah1707/Recipe_Browser)
+[![Secure It All](https://github-readme-stats.shion.dev/api/pin/?username=abdelrahmanmaklouf&repo=Secure_it_all&theme=aura)](https://github.com/abdelrahmanmaklouf/Secure_it_all)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
