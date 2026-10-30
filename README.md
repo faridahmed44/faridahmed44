@@ -1,5 +1,5 @@
 put the github status next to each other # 💫 About Me:
-<img src="./farida-ahmed-banner.svg" alt="Farida Ahmed" width="100%" />
+<img src="https://raw.githubusercontent.com/faridahmed44/faridahmed44/main/farida-ahmed-banner.svg" alt="Farida Ahmed" width="100%" />
 A Computer Engineering And Ai student @Ain shams university <br>has a passion for building apps and learning more about new languages
 
 
